@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "fecha_backup": "2025-10-14T16:01:59.249Z",
+    "total_registros": 3,
+    "version": "1.0",
+    "sistema": "Open House Winston Churchill"
+  },
+  "inscripciones": [
+    {
+      "id": "5d2580af-bd04-469c-a46f-41d5ac83f16b",
+      "nombre_aspirante": "LAURA PEREZ",
+      "nivel_academico": "primaria",
+      "grado_escolar": "1primaria",
+      "fecha_nacimiento": "2025-10-17",
+      "nombre_padre": "PEDRO PEREZ SANCHEZ LUIS",
+      "nombre_madre": "PEDRO PEREZ SANCHEZ LUIS",
+      "telefono": "8333246904",
+      "whatsapp": "8333246904",
+      "email": "isc.escobedo@gmail.com",
+      "direccion": "N/A",
+      "created_at": "2025-10-14T15:52:19.392989+00:00",
+      "fecha_inscripcion": "2025-10-14T15:52:19.15+00:00",
+      "updated_at": "2025-10-14T15:52:19.392989+00:00",
+      "reminder_sent": false,
+      "reminder_scheduled_for": "2025-10-15T15:52:19.15+00:00",
+      "reminder_sent_at": null,
+      "confirmacion_asistencia": "pendiente",
+      "fecha_confirmacion": null
+    },
+    {
+      "id": "6b95ffbf-d173-47fd-8057-aa3942c7d9be",
+      "nombre_aspirante": "LAURA PEREZ",
+      "nivel_academico": "primaria",
+      "grado_escolar": "2primaria",
+      "fecha_nacimiento": "2025-10-09",
+      "nombre_padre": "PEDRO PEREZ SANCHEZ LUIS",
+      "nombre_madre": "PEDRO PEREZ SANCHEZ LUIS",
+      "telefono": "8333246904",
+      "whatsapp": "8333246904",
+      "email": "isc.escobedo@gmail.com",
+      "direccion": "N/A",
+      "created_at": "2025-10-13T19:34:08.428373+00:00",
+      "fecha_inscripcion": "2025-10-13T19:34:08.253+00:00",
+      "updated_at": "2025-10-14T15:00:04.1074+00:00",
+      "reminder_sent": true,
+      "reminder_scheduled_for": "2025-10-14T19:34:08.252+00:00",
+      "reminder_sent_at": "2025-10-14T15:00:04.05+00:00",
+      "confirmacion_asistencia": "pendiente",
+      "fecha_confirmacion": null
+    },
+    {
+      "id": "3fe50ac4-667f-4a0f-8fb8-d749612ea54e",
+      "nombre_aspirante": "MARIO ALEJANDRO GALVAN ESCOBEDI",
+      "nivel_academico": "kinder",
+      "grado_escolar": "kinder2",
+      "fecha_nacimiento": "2025-10-22",
+      "nombre_padre": "PEDRO PEREZ SANCHEZ LUIS",
+      "nombre_madre": "PEDRO PEREZ SANCHEZ LUIS",
+      "telefono": "8333246904",
+      "whatsapp": "8333246904",
+      "email": "isc.escobedo@gmail.com",
+      "direccion": "N/A",
+      "created_at": "2025-10-13T19:29:38.624149+00:00",
+      "fecha_inscripcion": "2025-10-13T19:29:38.491+00:00",
+      "updated_at": "2025-10-14T15:00:05.399368+00:00",
+      "reminder_sent": true,
+      "reminder_scheduled_for": "2025-10-14T19:29:38.491+00:00",
+      "reminder_sent_at": "2025-10-14T15:00:05.349+00:00",
+      "confirmacion_asistencia": "pendiente",
+      "fecha_confirmacion": null
+    }
+  ]
+}
